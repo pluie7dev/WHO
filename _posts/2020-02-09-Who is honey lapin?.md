@@ -4,15 +4,21 @@ title: "Who is honey lapin?"
 ---
 
 
-![Lapin](https://user-images.githubusercontent.com/60458672/74089630-a0dd1b80-4ae6-11ea-9fc8-ff50ce64a58d.jpg)
+<img src="https://user-images.githubusercontent.com/60458672/74089630-a0dd1b80-4ae6-11ea-9fc8-ff50ce64a58d.jpg" 
+width="50%">
+
+# ![Lapin](https://user-images.githubusercontent.com/60458672/74089630-a0dd1b80-4ae6-11ea-9fc8-ff50ce64a58d.jpg)
 
 Web front/backend developer 
 
 
 interst
--elw
--keras 
--scale out
+
+1) elw
+2) keras 
+3) scale out
+
+
 
 
 
