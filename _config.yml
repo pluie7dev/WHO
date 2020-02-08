@@ -113,15 +113,15 @@ analytics:
 
 # Site Author
 author:
-  name             : " "
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "Honey Lapin"
+  avatar           : "https://github.com/pluie7dev/honeylapin/lapin.jpg"
                    
   
  
   links:
-    #- label: "Email"
-    #  icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:pluie7j@gmail.com
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:pluie7j@gmail.com
     
      
     - label: "INVEST"
@@ -135,6 +135,10 @@ author:
     - label: "PRIVATE"
       icon: "fas fa-fw fa-link"
       url: "https://github.com/pluie7dev/private"
+      
+    - label: "WHO"
+      icon: "fas fa-fw fa-link"
+      url: "https://github.com/pluie7dev/WHO"  
     
  
  
