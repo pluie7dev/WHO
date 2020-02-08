@@ -7,7 +7,6 @@ title: "Who is honey lapin?"
 <img src="https://user-images.githubusercontent.com/60458672/74089630-a0dd1b80-4ae6-11ea-9fc8-ff50ce64a58d.jpg" 
 width="50%">
 
-# ![Lapin](https://user-images.githubusercontent.com/60458672/74089630-a0dd1b80-4ae6-11ea-9fc8-ff50ce64a58d.jpg)
 
 Web front/backend developer 
 
