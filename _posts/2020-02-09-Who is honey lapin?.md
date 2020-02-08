@@ -6,12 +6,11 @@ width="30%">
 Web front/backend developer 
 
 
+
 interst
-
-
-1) elw
-2) keras 
-3) scale out
+1) elw  
+2) keras  
+3) scale out  
 
 
 
