@@ -1,4 +1,3 @@
-
 disqus_id : disqus_vvvEQyTWgg
 # Welcome to Jekyll!
 #
@@ -12,12 +11,8 @@ disqus_id : disqus_vvvEQyTWgg
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-
-
-
-
 # theme                  : "minimal-mistakes-jekyll"
-remote_theme           : "mmistakes/minimal-mistakes"
+# remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -71,7 +66,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : true  
+search                   : true # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
@@ -113,44 +108,35 @@ analytics:
 
 # Site Author
 author:
-  name             : " "
-  avatar           : # "https://github.com/pluie7dev/honeylapin/lapin.jpg"
-                   
-  
- 
+  name             : "Your Name"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "I am an **amazing** person."
+  location         : "Somewhere"
+  email            :
   links:
-    - label: "Email (pluie7j@gmail.com)"
+    - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:pluie7j@gmail.com
-      
-      - label: "HOME"
+    - label: "HOME"
       icon: "fas fa-fw fa-link"
       url: "https://pluie7dev.github.io/honeylapin"    
-     
     - label: "INVEST"
       icon: "fas fa-fw fa-link"
-      url: "https://pluie7dev.github.io/INVEST/"
-      
+      url: "https://pluie7dev.github.io/INVEST/"      
     - label: "DEV"
       icon: "fas fa-fw fa-link"
-      url: "https://pluie7dev.github.io/DEV/"  
-           
+      url: "https://pluie7dev.github.io/DEV/"           
     - label: "PRIVATE"
       icon: "fas fa-fw fa-link"
-      url: "https://github.com/pluie7dev/private"
-      
+      url: "https://github.com/pluie7dev/private"      
     - label: "WHO"
       icon: "fas fa-fw fa-link"
-      url: "https://github.com/pluie7dev/WHO"  
-    
- 
- 
+      url: "https://github.com/pluie7dev/WHO"
 
 # Site Footer
 footer:
   links:
-
-
+    
 
 # Reading Files
 include:
@@ -288,5 +274,5 @@ defaults:
       author_profile: true
       read_time: true
       comments: # true
-      share: # true
+      share: true
       related: true
