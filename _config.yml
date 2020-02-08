@@ -113,13 +113,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Honey Lapin"
-  avatar           : "https://github.com/pluie7dev/honeylapin/lapin.jpg"
+  name             : " "
+  avatar           : # "https://github.com/pluie7dev/honeylapin/lapin.jpg"
                    
   
  
   links:
-    - label: "Email"
+    - label: "Email (pluie7j@gmail.com)"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:pluie7j@gmail.com
     
