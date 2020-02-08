@@ -108,10 +108,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : " "
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : # "I am an **amazing** person."
+  location         : # "Somewhere"
   email            :
   links:
     - label: "Email"
@@ -131,7 +131,7 @@ author:
       url: "https://github.com/pluie7dev/private"      
     - label: "WHO"
       icon: "fas fa-fw fa-link"
-      url: "https://github.com/pluie7dev/WHO"
+      url: "https://pluie7dev.github.io/WHO"
 
 # Site Footer
 footer:
